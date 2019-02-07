@@ -7,6 +7,8 @@ require __DIR__ . '/../vendor/autoload.php';
 error_reporting(E_ALL);
 
 $environment = 'development';
+$request = new \Http\HttpRequest($_GET, $_POST, $_COOKIE, $_FILES, $_SERVER);
+$response = new \Http\HttpResponse;
 
 /**
  * Register the error handler
@@ -21,4 +23,7 @@ if ($environment !== 'production') {
 }
 $whoops->register();
 
-throw new \Exception;
+/**
+ * Use the router.
+ */
+\DMPortfolio\Router::run();
