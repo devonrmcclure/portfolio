@@ -1,0 +1,21 @@
+{
+    "name": "devonmcclure/portfolio",
+    "description": "Devon McClure's portfolio",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Devon McClure",
+            "email": "devon.r.mcclure@gmail.com"
+        }
+    ],
+	"require": {
+		"php": ">=7.3.0",
+        "filp/whoops": "^2.3"
+	},
+	"autoload": {
+		"psr-4": {
+			"DMPortfolio\\": "src/"
+		}
+	}
+}
