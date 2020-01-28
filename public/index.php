@@ -53,6 +53,8 @@
 							<li>Linux</li>
 							<li>Git/Github</li>
 							<li>Linux Terminal</li>
+							<li>MySQL</li>
+							<li>Relational Databases</li>
 						</ul>
 
 						<h5>Previous Work</h5>
