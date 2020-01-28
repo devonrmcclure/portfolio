@@ -41,6 +41,19 @@
 					<div class="card-body">
 						<h5 class="card-title">About</h5>
 						<p class="card-text">Self taught web developer from Calgary, Canada. Started learning programming in 2010 and have continued since then. Learning a variety of tools and languages including JavaScript, PHP, React, Typescript, VueJS, Laravel, etc.</p>
+						<hr />
+						<h5>Experience With</h5>
+						<ul>
+							<li>PHP 5.6 - 7.*</li>
+							<li>HTML/CSS</li>
+							<li>SASS/LESS</li>
+							<li>JavaScript</li>
+							<li>VueJS</li>
+							<li>ReactJS</li>
+							<li>Linux</li>
+							<li>Git/Github</li>
+							<li>Linux Terminal</li>
+						</ul>
 					</div>
 				</div>
 			</div>
