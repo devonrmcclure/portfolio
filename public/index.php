@@ -54,6 +54,10 @@
 							<li>Git/Github</li>
 							<li>Linux Terminal</li>
 						</ul>
+
+						<h5>Previous Work</h5>
+							<h6><b>Batteries Included</b></h6> 2013-2019 Sales Associate/Web Developer
+						
 					</div>
 				</div>
 			</div>
