@@ -55,6 +55,8 @@
 							<li>Linux Terminal</li>
 							<li>MySQL</li>
 							<li>Relational Databases</li>
+							<li>Typescript</li>
+							<li>Node.js</li>
 						</ul>
 
 						<h5>Previous Work</h5>
